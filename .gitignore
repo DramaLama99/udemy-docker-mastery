@@ -17,6 +17,9 @@ sample-data
 ##
 ##
 
+#
+_Add_Resources_Git_Ignored
+
 
 ### Git ###
 *.orig
